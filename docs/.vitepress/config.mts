@@ -41,5 +41,7 @@ export default defineConfig({
       { icon: 'discord', link: 'https://discord.com/constfi' },
       { icon: 'github', link: 'https://github.com/constfi/const_contract' },
     ]
-  }
+  },
+
+  base: "/const-www/",
 })
