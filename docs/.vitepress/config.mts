@@ -43,5 +43,5 @@ export default defineConfig({
     ]
   },
 
-  base: "/const-www/",
+  // base: "/const-www/"
 })
