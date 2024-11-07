@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Constant Finance",
   description: "Decentralized lending protocol with Fixed Rates, Flexible Access and Higher Yields",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
@@ -30,7 +31,6 @@ export default defineConfig({
               {text: 'Liquidation', link: '/docs/concepts/liquidation'},
               {text: 'Risks', link: '/docs/concepts/risks'}
             ]
-            // link: '/concepts' 
           }
         ]
       }
@@ -39,8 +39,13 @@ export default defineConfig({
     socialLinks: [
       { icon: 'x', link: 'https://x.com/constfi' },
       { icon: 'discord', link: 'https://discord.com/constfi' },
-      { icon: 'github', link: 'https://github.com/constfi/const_contract' },
-    ]
+      { icon: 'github', link: 'https://github.com/constfi/contracts' },
+    ],
+
+    footer: {
+      message: '<a href="/privacy-policy">Privacy Policy</a>. <a href="/term-of-use">Term of Use</a>.',
+      copyright: 'Copyright © 2024 Constant Finance Team'
+    }
   },
 
   // base: "/const-www/"
