@@ -18,7 +18,7 @@ features:
   - title: Fixed interest rate
     details: Eliminate fluctuations and unexpected costs.
   - title: Higher yields and lower costs
-    details: Supply your assets for a customizable and fixed APR (Annual Percentage Rate).
+    details: Supply your assets for a customizable and fixed APR (Annual Percentage Rate). Borrow at the best APR.
   - title: Any token, any time
     details: Supply and borrow multiple assets, withdraw any time.
 ---
