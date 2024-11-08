@@ -43,7 +43,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/privacy-policy">Privacy Policy</a>. <a href="/term-of-use">Term of Use</a>.',
+      message: '<a href="/privacy-policy">Privacy Policy</a>. <a href="/term-of-use">Term of Use</a>. <a href="/contact-us">Contact Us</a>.',
       copyright: 'Copyright © 2024 Constant Finance Team'
     }
   },
