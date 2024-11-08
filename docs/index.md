@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Constant Finance"
-  text: "Decentralized lending with Fixed Rates, Flexible Access and Higher Yields"
-  tagline: Enabling users to securely lend and borrow with fixed interest rate.
+  text: "Empowering Global DeFi users to Lend and Borrow at Fixed Rates"
+  # tagline: Enabling users to securely lend and borrow with fixed interest rate.
   actions:
     - theme: brand
       text: Use app
@@ -17,9 +17,9 @@ hero:
 features:
   - title: Fixed interest rate
     details: Eliminate fluctuations and unexpected costs.
-  - title: Higher yield and lower cost
+  - title: Higher yields and lower costs
     details: Supply your assets for a customizable and fixed APR (Annual Percentage Rate).
-  - title: Anytime and any tokens
+  - title: Any token, any time
     details: Supply and borrow multiple assets, withdraw any time.
 ---
 
