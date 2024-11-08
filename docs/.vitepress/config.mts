@@ -27,7 +27,7 @@ export default defineConfig({
               {text: 'Borrow', link: '/docs/concepts/borrow'},
               {text: 'Renew', link: '/docs/concepts/renew'},
               {text: 'Repay', link: '/docs/concepts/repay'},
-              {text: 'Widthdraw', link: '/docs/concepts/withdraw'},
+              {text: 'Withdraw', link: '/docs/concepts/withdraw'},
               {text: 'Liquidation', link: '/docs/concepts/liquidation'},
               {text: 'Risks', link: '/docs/concepts/risks'}
             ]

@@ -2,7 +2,7 @@
 
 The health factor is a critical metric within the Aave Protocol that measures the safety of a borrow position. It is calculated as:
 
-    Health Factor = (Total Collateral Value * Weighted Average Liquidation Threshold) / Total Borrow Value
+`Health Factor = (Total Collateral Value * Weighted Average Liquidation Threshold) / Total Borrow Value`
 
 The health factor measures a borrow position’s stability. A health factor below 1 risks liquidation. The liquidation threshold, set by Const Protocol for each asset, determines the maximum percentage of value that can be borrowed against the asset.
 
