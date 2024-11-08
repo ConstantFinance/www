@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Constant Finance"
-  text: "Empowering Global DeFi users to Lend and Borrow at Fixed Rates"
+  text: "Empowering Global DeFi users to Lend and Borrow at <span style='color: #5672cd;'>Fixed Rates</span>"
   # tagline: Enabling users to securely lend and borrow with fixed interest rate.
   actions:
     - theme: brand
