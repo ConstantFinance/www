@@ -49,7 +49,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/jack-cjw/const-www/edit/main/docs/:path',
+      pattern: 'https://github.com/ConstFiDev/www/edit/main/docs/:path',
       text: 'Edit this page'
     }
   },
