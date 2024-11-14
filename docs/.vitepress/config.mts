@@ -25,8 +25,9 @@ export default defineConfig({
               {text: 'Matching protocol', link: '/docs/concepts/matching-protocol'},
               {text: 'Supply', link: '/docs/concepts/supply'},
               {text: 'Borrow', link: '/docs/concepts/borrow'},
-              {text: 'Renew', link: '/docs/concepts/renew'},
               {text: 'Repay', link: '/docs/concepts/repay'},
+              {text: 'Early exit', link: '/docs/concepts/early-exit'},
+              {text: 'Renew', link: '/docs/concepts/renew'},
               {text: 'Withdraw', link: '/docs/concepts/withdraw'},
               {text: 'Liquidation', link: '/docs/concepts/liquidation'},
               {text: 'Risks', link: '/docs/concepts/risks'}
