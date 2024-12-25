@@ -49,10 +49,10 @@ export default defineConfig({
       copyright: 'Copyright © 2024 Constant Finance Team'
     },
 
-    editLink: {
-      pattern: 'https://github.com/ConstFiDev/www/edit/main/docs/:path',
-      text: 'Edit this page'
-    }
+    // editLink: {
+    //   pattern: 'https://github.com/ConstFiDev/www/edit/main/docs/:path',
+    //   text: 'Edit this page'
+    // }
   },
 
   // base: "/const-www/"
