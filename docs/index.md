@@ -8,8 +8,8 @@ hero:
   # tagline: Enabling users to securely lend and borrow with fixed interest rate.
   actions:
     - theme: brand
-      text: Use app
-      link: https://app.constfi.com/
+      text: Litepaper
+      link: https://litepaper.constfi.com/
     - theme: alt
       text: Documents
       link: /docs

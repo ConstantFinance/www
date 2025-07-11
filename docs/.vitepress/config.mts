@@ -27,7 +27,7 @@ export default defineConfig({
               {text: 'Borrow', link: '/docs/concepts/borrow'},
               {text: 'Repay', link: '/docs/concepts/repay'},
               {text: 'Early exit', link: '/docs/concepts/early-exit'},
-              {text: 'Renew', link: '/docs/concepts/renew'},
+              {text: 'Refinance', link: '/docs/concepts/refinance'},
               {text: 'Withdraw', link: '/docs/concepts/withdraw'},
               {text: 'Liquidation', link: '/docs/concepts/liquidation'},
               {text: 'Risks', link: '/docs/concepts/risks'}
