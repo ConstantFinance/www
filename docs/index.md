@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Litepaper
-      link: https://litepaper.constfi.com/
+      link: /litepaper.pdf
     - theme: alt
       text: Documents
       link: /docs
