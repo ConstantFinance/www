@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: Litepaper
       link: /litepaper.pdf
-    # - theme: alt
-    #   text: Documents
-    #   link: /docs
+    - theme: alt
+      text: Documents
+      link: /docs
 
 features:
   - title: Fixed interest rate
