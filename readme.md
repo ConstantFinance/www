@@ -1,3 +1,3 @@
 # Constant Finance
 
-Website for <www.constfi.com>.
+Visit <www.constfi.com>.
