@@ -1,9 +1,9 @@
 # About Us
 
-Empowering the Next Era of Collaboration
+Our Roots: Centralized Expertise, Decentralized Vision
 
-We stand at a pivotal moment where the maturity of the Web3 stack enables the transition from theoretical models to tangible, programmable realities. We believe the next generation of decentralized applications will thrive on a new breed of modular, resilient infrastructure.
+The Web3 stack has matured beyond experiments. The future belongs to modular, production-grade infrastructure that withstands real economic stress, is interoperable by design, and scales with actual usage—not hype. Our team brings battle-tested experience from leading centralized exchanges and non-custodial wallets, where uptime, security, and safeguarding user funds are non-negotiable. We view crypto not as speculation, but as the most effective global coordination layer for value transfer and economic activity.
 
-Our founding team comprises Web3 natives with a proven track record at industry-leading exchanges and non-custodial wallets. We view Crypto as the ultimate coordination mechanism for humanity.
+We are building a composable lending protocol integrated into emerging on-chain economic models. This creates open, liquid markets with fully verifiable mechanics: every position, collateral ratio, interest accrual, and liquidation lives on transparent, auditable ledgers—no black boxes, no hidden fees, no centralized gatekeepers. This transparency is foundational. It reduces counterparty risk, enables accurate risk pricing, and builds the institutional and retail trust required for meaningful adoption.
 
-By seamlessly integrating lending protocols into the core of emerging economic models, we are establishing an open, liquid foundation that transcends the era of isolated tools. Our mission is to champion the fundamental principles of sovereignty and transparency, building the bedrock for global mass adoption and unlocking the full potential of a borderless economy.
+Our focus is straightforward: deliver infrastructure that works reliably today, enforces sovereignty through code (not promises), and provides full visibility so participants can independently verify compliance and soundness. By prioritizing these principles, we lay a defensible foundation for a borderless economy—one audited protocol, one transparent market, and one real use case at a time.
