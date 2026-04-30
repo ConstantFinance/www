@@ -11,7 +11,7 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'App', link: 'https://constfi-fe-new.vercel.app/en' },
+      { text: 'App', link: 'https://app.dev-const.com' },
       // { text: 'Docs', link: '/docs' }
     ],
 
