@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: Litepaper
       link: /litepaper.pdf
-    # - theme: alt
-    #   text: Documents
-    #   link: /docs
+    - theme: alt
+      text: Quick start
+      link: https://constfi.gitbook.io/docs
 
 features:
   - title: LP NFT Collateral Support
